@@ -14,15 +14,6 @@ Currently, I'm conducting my third rotation in Shalev Itzkovitz's lab, where I a
 
 ---
 
-## Current Status
-
-```python
-deadline = "last week"
-submission = "today"
-
-if submission > deadline:
-    print("Better late than never!")
-
-## Meet My Dog
+## Meet My Dog - Buffer
 
 ![Buffer](IMG_0802.jpeg)
