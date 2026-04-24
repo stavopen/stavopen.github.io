@@ -25,4 +25,4 @@ if submission > deadline:
 
 ## Meet My Dog
 
-![Buffer]
+![Buffer](IMG_0802.jpeg)
