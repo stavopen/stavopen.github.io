@@ -20,5 +20,17 @@ Currently, I'm conducting my third rotation in Shalev Itzkovitz's lab, where I a
 ![Buffer](IMG_0802.jpeg)
 
 
-## Windows
 
+## AI Usage
+
+I used ChatGPT to help me create and improve this website.
+
+### Prompts Used
+
+* "How do I create a GitHub Pages website?"
+* "How do I customize my GitHub Pages homepage?"
+* "How do I publish a website using GitHub Pages?"
+
+### Notes
+
+ChatGPT helped me understand GitHub Pages, repository setup, website customization, and basic Git commands.
