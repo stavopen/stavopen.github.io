@@ -1,1 +1,4 @@
-theme: minima
+title: Stav Openhaimer
+description: Master's student | Science | Data | Research
+
+theme: jekyll-theme-cayman
